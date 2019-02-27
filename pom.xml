@@ -6,7 +6,7 @@
 
 	<groupId>me.mren</groupId>
 	<artifactId>file-loader-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>${project_version}</version>
 	<packaging>jar</packaging>
 
 	<name>file-loader-api</name>
